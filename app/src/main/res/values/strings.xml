@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">MVVMCleanArchitectureCoroutines</string>
+    <string name="app_name">Awesome Movies</string>
+    <string name="toast_error">Something happened . Please try again .</string>
 </resources>
